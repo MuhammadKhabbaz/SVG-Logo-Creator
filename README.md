@@ -13,4 +13,4 @@ Click the download button
 node.js npm inquirer jest
 
 ## Video Walkthrough
-[Watch the video walkthrough]([https://watch.screencastify.com/v/0NVMk0LxAyZVhXai4onu](https://watch.screencastify.com/v/79YAq2vBieOrDu0inef3)https://watch.screencastify.com/v/79YAq2vBieOrDu0inef3)
+[Watch the video walkthrough](https://watch.screencastify.com/v/0NVMk0LxAyZVhXai4onu](https://watch.screencastify.com/v/79YAq2vBieOrDu0inef3)https://watch.screencastify.com/v/79YAq2vBieOrDu0inef3)
